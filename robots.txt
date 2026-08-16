@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangsan-hyperpublic-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://dangsan-hyperpublic-note.best-hapjeong-pub.xyz/sitemap-pages.xml
